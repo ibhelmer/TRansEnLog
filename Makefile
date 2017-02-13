@@ -1,10 +1,10 @@
 
-# Makefile created by monomake, 12-02-2017 21:17:23
-# Project: transenlog
+# Makefile created by monomake, 13-02-2017 16:42:13
+# Project: TransEnLog
 
 MONO_PATH=c:/OpenMono
 include $(MONO_PATH)/predefines.mk
 
-TARGET=transenlog
+TARGET=TransEnLog
 
 include $(MONO_PATH)/mono.mk

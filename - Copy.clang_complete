@@ -1,0 +1,14 @@
+-Ic:\OpenMono/gcc-arm-none-eabi-5_2-2015q4-20151219-win32/arm-none-eabi/include
+-Ic:\OpenMono/gcc-arm-none-eabi-5_2-2015q4-20151219-win32/arm-none-eabi/include/c++/5.2.1/arm-none-eabi/thumb
+-Ic:\OpenMono/gcc-arm-none-eabi-5_2-2015q4-20151219-win32/arm-none-eabi/include/c++/5.2.1/arm-none-eabi
+-Ic:\OpenMono/gcc-arm-none-eabi-5_2-2015q4-20151219-win32/arm-none-eabi/include/c++/5.2.1
+-Ic:\OpenMono/mono/include
+-Ic:\OpenMono/mono/include/display
+-Ic:\OpenMono/mono/include/display/ui
+-Ic:\OpenMono/mono/include/display/ili9225g
+-Ic:\OpenMono/mono/include/io
+-Ic:\OpenMono/mono/include/media
+-Ic:\OpenMono/mono/include/mbed/api
+-Ic:\OpenMono/mono/include/mbed/hal
+-Ic:\OpenMono/mono/include/mbed/libraries/fs/sd
+-Ic:\OpenMono/mono/include/mbed/target_cypress
