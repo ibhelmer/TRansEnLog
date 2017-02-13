@@ -21,10 +21,10 @@ void InternetUpload::init()
     password = String("10244120");
     url = String("www.ihn.dk");
    
-   // ssid = String("WiFI-IHN-1");
-   // password = String("*******");
-   // url = String("192.168.1.124:7913");	
-   // connectWifi();
+    ssid = String("WiFI-IHN-1");
+    password = String("****");
+    url = String("192.168.1.124");	
+    connectWifi();
 }
 
 void InternetUpload::connectWifi()
